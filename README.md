@@ -3,3 +3,4 @@ DEAR TURKMMO COMMUNITY - I know you enjoy taking stuff from other forums, add a 
 System extracted from trinity v100. The biggest misery I've seen in a while. 
 
 #Quick Fixes: instead of TargetSetZoom, use SetZoom, or whatever you got inside PythonRenderTargetModule (Binary source)
+EDIT: I changed so people don't bother doing it themselves.
