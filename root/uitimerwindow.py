@@ -1,6 +1,6 @@
 import ui
-import yWp8YWaB4m5N2glpnses as app
-import e120e808bbd36072fe6d48de1d0c4287e as net
+import app
+import net
 import localeInfo
 import chat
 import uiCommon 
